@@ -1,0 +1,13 @@
+input{
+    width: auto;
+    height: auto;
+}
+.inputs{
+    display: grid;
+    grid-template-rows: 1fr;
+    margin: 20px;
+}
+#results{
+    display: grid;
+    grid-row: 1fr;
+}
